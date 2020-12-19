@@ -261,7 +261,6 @@ Der Sensor benötigt die [DHT Library](http://developer.mbed.org/teams/component
 
 Das Beispiel TemperaturSensorExtern gibt Temperatur und Luftfeuchtigkeit auf der Console aus.
 
-
 <details><summary>main.cpp</summary>  
 
     /** Temperatur Sensor (extern)
@@ -303,6 +302,14 @@ Das Beispiel TemperaturSensorExtern gibt Temperatur und Luftfeuchtigkeit auf der
 
 **Hinweis**: Ein paar der Übungen funktionieren nur mit dem IoTKitV3 K64F, weil der Encoder benötigt wird.
 
-| **PIR Sensor, Summer**Wenn sich jemand nähert, Licht einschalten und Akustisches Signal Anwendung: Alarmanlage. |  |
-|  **Hall Sensor**Sobald kein magnetisches Feld mehr vorhanden, Akustisches Signal auslösen. Anwendung: Fenstersicherung.  |  |
+### PIR Sensor, Summer
 
+Wenn sich jemand nähert, Licht einschalten und Akustisches Signal 
+
+* Anwendung: Alarmanlage.
+
+### Hall Sensor
+
+Sobald kein magnetisches Feld mehr vorhanden, Akustisches Signal auslösen. 
+
+* Anwendung: Fenstersicherung. 
