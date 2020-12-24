@@ -2,9 +2,9 @@ Sensoren
 --------
 ***
 
-> [⇧ **Home**](https://github.com/iotkitv4/intro)
+> [⇧ **Home**](https://github.com/iotkitv3/intro)
 
-![](https://raw.githubusercontent.com/iotkitv4/intro/main/images/Messysteme.png)
+![](https://raw.githubusercontent.com/iotkitv3/intro/main/images/Messysteme.png)
 
 Source: Prof. Dr.-Ing. Michael Weyrich, http://wiki.zimt.uni-siegen.de/fertigungsautomatisierung
 
@@ -26,7 +26,7 @@ Sensoren sind technische Bauteile, die Eigenschaften der Umgebung (z. B.: Wärme
 
 > [⇧ **Nach oben**](#beispiele)
 
-![](https://raw.githubusercontent.com/iotkitv4/intro/main/images/sensors/HallEffectSensor.png) 
+![](https://raw.githubusercontent.com/iotkitv3/intro/main/images/sensors/HallEffectSensor.png) 
 
 Hall Sensor auf Kit und für Durchsteckmontage
 
@@ -61,25 +61,25 @@ Das [Beispiel](main.cpp) bringt je nach Magnet Pool eine LED zu leuchten.
 
 > [⇧ **Nach oben**](#beispiele)
 
-![](https://raw.githubusercontent.com/iotkitv4/intro/main/images/sensors/PIRSensorUse.png)
+![](https://raw.githubusercontent.com/iotkitv3/intro/main/images/sensors/PIRSensorUse.png)
 
 Reichweite/Funktionsweise 
 
 - - - 
 
-![](https://raw.githubusercontent.com/iotkitv4/intro/main/images/sensors/PIRSensity.png) 
+![](https://raw.githubusercontent.com/iotkitv3/intro/main/images/sensors/PIRSensity.png) 
 
 Empfindlichkeit 3 - 7 Meter 
 
 - - -
 
-![](https://raw.githubusercontent.com/iotkitv4/intro/main/images/sensors/PIRTime.png) 
+![](https://raw.githubusercontent.com/iotkitv3/intro/main/images/sensors/PIRTime.png) 
 
 Signal von 3 Sekunden bis 5 Minuten
 
 - - -
 
-![](https://raw.githubusercontent.com/iotkitv4/intro/main/images/sensors/PIRSensor.png) 
+![](https://raw.githubusercontent.com/iotkitv3/intro/main/images/sensors/PIRSensor.png) 
 
 Anschlüsse
 
@@ -138,13 +138,13 @@ Das Beispiel bei Erkennung einer Bewegung wird eine LED eingeschaltet.
 
 > [⇧ **Nach oben**](#beispiele)
 
-![](https://raw.githubusercontent.com/iotkitv4/intro/main/images/sensors/UltrasonicSensorTiming.png)
+![](https://raw.githubusercontent.com/iotkitv3/intro/main/images/sensors/UltrasonicSensorTiming.png)
 
 Timing
 
 - - -
 
-![](https://raw.githubusercontent.com/iotkitv4/intro/main/images/sensors/UltrasonicSensor.png)
+![](https://raw.githubusercontent.com/iotkitv3/intro/main/images/sensors/UltrasonicSensor.png)
 
 HC-SR04 
 
@@ -228,13 +228,13 @@ Das Beispiel UltraschallSensor_LowLevelV2 zeigt, wie der Sensor ohne eine zusät
 
 > [⇧ **Nach oben**](#beispiele)
 
-![](https://raw.githubusercontent.com/iotkitv4/intro/main/images/sensors/TemperatureSensorUse.png)
+![](https://raw.githubusercontent.com/iotkitv3/intro/main/images/sensors/TemperatureSensorUse.png)
 
 Beispiel Anwendung
 
 - - -
 
-![](https://raw.githubusercontent.com/iotkitv4/intro/main/images/sensors/TemperatureSensor.png)
+![](https://raw.githubusercontent.com/iotkitv3/intro/main/images/sensors/TemperatureSensor.png)
 
 DHT11
 
