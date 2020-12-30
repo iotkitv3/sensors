@@ -16,6 +16,9 @@ Sensoren sind technische Bauteile, die Eigenschaften der Umgebung (z. B.: Wärme
 ### Beispiele
 
 * [Hall Sensor](#hall-sensor)
+
+Die nachfolgenden Sensoren sind  zur Vollständigkeit aufgeführt. An dessen Stelle kommen heute, sogenannte [MEMS Sensoren](https://www.digikey.ch/de/blog/mems-sensors-are-good-but-the-revolution-is-just-beginning) zum Einsatz. Diese sind im Kapitel [I²C/TWI](https://github.com/iotkitv3/i2c) beschrieben.
+
 * [PIR Sensor](#pir-sensor)
 * [Ultraschall Abstandsmesser](#ultraschall-abstandsmesser)
 * [Temperatur Sensor](#temperatur-sensor) externe Variante
